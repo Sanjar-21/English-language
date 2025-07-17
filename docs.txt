@@ -21,4 +21,5 @@
                 Hozircha meni maqsadim saytga tashruf buyerganda saytni kirish qismini qilish shuni qilib olsam uzim.
                 Kiyingi task qogan qisimlarni mayda mayda tasklarga bulib ishlash git uzim hozir main branchda ishlab
                 turaman kiyin jamo yig'lib qolsa asosiy branch main buladi kiyin shundan hamma uzi branch yaratib olaid
+                Asosan dizayin ustida ishlaymiz hozircha
 
