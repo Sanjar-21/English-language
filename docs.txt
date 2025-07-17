@@ -15,5 +15,10 @@
                     Web saytdan boshlasak birnchi nomda domen nomi shunga mos bulish kerak : hozircha muhimas
                     https://essential.uz deb nomlab tursak hozircha saytga kirganda dizayni qilish kerak
                     bir muhim jihat saytda hech qanday reklamar bumaydi homiylarga istisno, spart kiyinchalik 
-                    uylab kurmaiz
+                    uylab kurmaiz.
+                    
+                    
+                Hozircha meni maqsadim saytga tashruf buyerganda saytni kirish qismini qilish shuni qilib olsam uzim.
+                Kiyingi task qogan qisimlarni mayda mayda tasklarga bulib ishlash git uzim hozir main branchda ishlab
+                turaman kiyin jamo yig'lib qolsa asosiy branch main buladi kiyin shundan hamma uzi branch yaratib olaid
 
